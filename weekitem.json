@@ -1,0 +1,292 @@
+[
+  {
+    "dayname": "mo",
+    "daynumber": 1,
+    "lessons": [
+      {
+        "from": {
+          "number": 3,
+          "time": "9:00"
+        },
+        "to": {
+          "number": 6,
+          "time": "11:00"
+        },
+        "name": "web",
+        "local": "BA6.46",
+        "teatcher": "FFO"
+      },
+      {
+        "from": {
+          "number": 8,
+          "time": "11:30"
+        },
+        "to": {
+          "number": 9,
+          "time": "12:30"
+        },
+        "name": "REK",
+        "local": "BA6.34",
+        "teatcher": "ERL"
+      },
+      {
+        "from": {
+          "number": 10,
+          "time": "12:30"
+        },
+        "to": {
+          "number": 11,
+          "time": "13:30"
+        },
+        "name": "swv",
+        "local": "BA6.34",
+        "teatcher": ""
+      },
+      {
+        "from": {
+          "number": 13,
+          "time": "14:00"
+        },
+        "to": {
+          "number": 15,
+          "time": "15:30"
+        },
+        "name": "EMB",
+        "local": "BA6.02",
+        "teatcher": "MSO"
+      }
+    ]
+  },
+  {
+    "dayname": "tu",
+    "daynumber": 2,
+    "lessons": [
+      {
+        "from": {
+          "number": 5,
+          "time": "10:00"
+        },
+        "to": {
+          "number": 7,
+          "time": "11:30"
+        },
+        "name": "php",
+        "local": "BA6.46",
+        "teatcher": ""
+      },
+      {
+        "from": {
+          "number": 9,
+          "time": "12:00"
+        },
+        "to": {
+          "number": 12,
+          "time": "14:00"
+        },
+        "name": "EHG",
+        "local": "BA6.22",
+        "teatcher": "KEB"
+      },
+      {
+        "from": {
+          "number": 13,
+          "time": "14:00"
+        },
+        "to": {
+          "number": 14,
+          "time": "15:00"
+        },
+        "name": "JAV",
+        "local": "BA6.46",
+        "teatcher": ""
+      }
+    ]
+  },
+  {
+    "dayname": "we",
+    "daynumber": 3,
+    "lessons": [
+      {
+        "from": {
+          "number": 3,
+          "time": "9:00"
+        },
+        "to": {
+          "number": 4,
+          "time": "10:00"
+        },
+        "name": "DAA",
+        "local": "BA6.43",
+        "teatcher": ""
+      },
+      {
+        "from": {
+          "number": 5,
+          "time": "10:00"
+        },
+        "to": {
+          "number": 7,
+          "time": "11:30"
+        },
+        "name": "LIN",
+        "local": "BA6.43",
+        "teatcher": "HPS"
+      },
+      {
+        "from": {
+          "number": 9,
+          "time": "12:00"
+        },
+        "to": {
+          "number": 11,
+          "time": "13:30"
+        },
+        "name": "JAV",
+        "local": "BA6.25",
+        "teatcher": ""
+      },
+      {
+        "from": {
+          "number": 12,
+          "time": "13:30"
+        },
+        "to": {
+          "number": 13,
+          "time": "14:30"
+        },
+        "name": "kwi",
+        "local": "BA6.25",
+        "teatcher": "SMN"
+      },
+      {
+        "from": {
+          "number": 15,
+          "time": "15:00"
+        },
+        "to": {
+          "number": 18,
+          "time": "17:00"
+        },
+        "name": "php",
+        "local": "BA6.22",
+        "teatcher": ""
+      }
+    ]
+  },
+  {
+    "dayname": "th",
+    "daynumber": 4,
+    "lessons": [
+      {
+        "from": {
+          "number": 3,
+          "time": "9:00"
+        },
+        "to": {
+          "number": 4,
+          "time": "10:00"
+        },
+        "name": "kwi",
+        "local": "BA6.25",
+        "teatcher": "SMN"
+      },
+      {
+        "from": {
+          "number": 5,
+          "time": "10:00"
+        },
+        "to": {
+          "number": 7,
+          "time": "11:30"
+        },
+        "name": "DAA",
+        "local": "BA6.25",
+        "teatcher": ""
+      },
+      {
+        "from": {
+          "number": 8,
+          "time": "11:30"
+        },
+        "to": {
+          "number": 9,
+          "time": "12:30"
+        },
+        "name": "WVO",
+        "local": "BA6.03",
+        "teatcher": "SGF"
+      },
+      {
+        "from": {
+          "number": 11,
+          "time": "13:00"
+        },
+        "to": {
+          "number": 13,
+          "time": "14:30"
+        },
+        "name": "web",
+        "local": "BA6.02",
+        "teatcher": "FFO"
+      },
+      {
+        "from": {
+          "number": 14,
+          "time": "14:30"
+        },
+        "to": {
+          "number": 15,
+          "time": "15:30"
+        },
+        "name": "PJM",
+        "local": "BA6.19",
+        "teatcher": "RHK"
+      }
+    ]
+  },
+  {
+    "dayname": "fr",
+    "daynumber": 5,
+    "lessons": [
+      {
+        "from": {
+          "number": 3,
+          "time": "9:00"
+        },
+        "to": {
+          "number": 8,
+          "time": "12:00"
+        },
+        "name": "PRO",
+        "local": "SCN - Extern",
+        "teatcher": "HOD, SGF"
+      },
+      {
+        "from": {
+          "number": 9,
+          "time": "12:00"
+        },
+        "to": {
+          "number": 10,
+          "time": "13:00"
+        },
+        "name": "reistijd",
+        "local": "",
+        "teatcher": ""
+      },
+      {
+        "from": {
+          "number": 11,
+          "time": "13:00"
+        },
+        "to": {
+          "number": 13,
+          "time": "14:30"
+        },
+        "name": "ENG",
+        "local": "BA6.46",
+        "teatcher": "KDI"
+      }
+    ]
+  }
+]
